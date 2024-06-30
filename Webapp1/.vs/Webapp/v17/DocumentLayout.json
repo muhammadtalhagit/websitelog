@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\forms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\forms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\widgets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\widgets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\tables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\tables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\blank.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\blank.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\home\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\home\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|c:\\users\\ezbuytech\\onedrive\\desktop\\asp.net\\webapp1\\webapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76830FC0-4B9E-425C-81B7-19923F64E8E3}|Webapp\\Webapp.csproj|solutionrelative:webapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Forms.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Forms.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Forms.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Forms.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Forms.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:59:06.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAAJ0AAADA//////8vwK0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:18:08.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Webapp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Webapp\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAJsAAABgZWZmZmYmwKkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:54:33.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Webapp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Webapp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:39:51.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAC0AAAAAZWZmZmYkwEIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T07:42:50.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8BAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T03:39:40.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwC8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:08:02.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Widgets.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Widgets.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Widgets.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Widgets.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Widgets.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:58:39.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tables.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Tables.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Tables.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Tables.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Tables.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:59:33.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Charts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Charts.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Charts.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Charts.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Charts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T07:00:00.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Signin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Signin.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Signin.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Signin.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Signin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T07:00:23.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Signup.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T07:01:56.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Error.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Error.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T07:02:21.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Addproduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Addproduct.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Addproduct.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Addproduct.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Addproduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T06:51:31.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Blank.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Blank.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Blank.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Blank.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Blank.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T07:02:44.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Home\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:41:29.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Home\\Services.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAsBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:43:46.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:49:52.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Thankyou.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Thankyou.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Home\\Thankyou.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Thankyou.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Home\\Thankyou.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T05:20:44.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T05:59:22.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:13:46.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAO0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:45:26.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Home\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Checkout.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Home\\Checkout.cshtml",
+              "ViewState": "AQIAAAYBAAAALzMzMzMLwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T05:09:46.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Webapp\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Webapp\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T04:48:31.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
